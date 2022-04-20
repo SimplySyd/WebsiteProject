@@ -1,0 +1,33 @@
+Objective: To be a personal capsule of my life and favorite acitvities. I want people who don't know me to gaina n insight into my life through the website. It should showcase some of my vibrant personality and fun hobbies. 
+Layout:
+    Main Page:
+        - Photo
+        - Describe myself and the objectives of the site
+
+    Sub Pages:
+
+        Travel:
+        - Showcase some of my favorite travels
+        Social:
+        - Share fun things that I love to do around the city
+        Cooking:
+        - Share some of my favorite recipes
+
+
+
+    Home Page Structure:
+
+    Header
+                                                 Nav
+    Article
+    Photo                                       Article
+                                                Article
+                                                Article
+
+
+Sub page structure:
+
+                                                Nav
+    Paragraph-----------------------------------
+
+    Card                Card                   Card
