@@ -9,7 +9,7 @@ This section goes over one og my favorite passions cooking. I share recipes, pho
 
 Social:
 
-One of my favorite things to do is do fun acitivities with other people. Here I share some of my favorite experiences I have done with my friends around the DC area. I link to further examples of the types of activities I enjoy.
+One of my favorite things to do is do fun acitivities with other people. Here I share some of my favorite experiences I have done with my friends around the DC area. I link to further examples of the types of activities I enjoy and love.
 < Got code strucutre from twitteer bootstrap and code from https://kn516.github.io/New-Juice-Website/>
 
 Travel:
